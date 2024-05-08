@@ -106,12 +106,15 @@ Display dependent variable
 ![image](https://github.com/Shaan2803/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568486/e6b100bb-e876-4b6f-9dec-6d4ead304b0b)
 
 Printing accuracy
+
 ![image](https://github.com/Shaan2803/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568486/c3340c1e-3b1e-47d8-8b2f-fceb71bee841)
 
 Printing Y
+
 ![image](https://github.com/Shaan2803/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568486/60f50131-98d8-4c19-97cb-b45827252d5f)
 
 Printing y_prednew
+
 ![image](https://github.com/Shaan2803/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568486/47b6d871-21bd-4a66-8ec0-26cf97581785)
 
 

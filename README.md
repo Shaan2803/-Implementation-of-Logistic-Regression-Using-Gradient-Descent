@@ -96,6 +96,7 @@ Read the file and display
 ![image](https://github.com/Shaan2803/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568486/34084792-301a-43e3-8189-b76335888120)
 
 Categorizing columns
+
 ![image](https://github.com/Shaan2803/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/160568486/d9cdd0ec-3714-47cd-a5f2-36751afd88f2)
 
 Labelling columns and displaying dataset
